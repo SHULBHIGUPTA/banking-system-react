@@ -6,7 +6,7 @@ import { connect } from 'react-redux';
     return (
       <>
         <nav className="bg-primary p-1">
-              <h3 >Bank of Geekster</h3>
+              <h3 >Bank</h3>
               <h5 >TOTAL BALANCE :{this.props.Amount}</h5>
         </nav>
       </>
